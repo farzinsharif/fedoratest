@@ -10,5 +10,5 @@ then
 fi
 if [ -d /etc/dnf ]
 then
-    echo "eyvollah this is fedora dist"
+    echo "eyvollah this is fedora dist......"
 fi
